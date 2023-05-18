@@ -1,6 +1,6 @@
 # Hi, I'm Pedro! 👋
 
-I'm a 23 years old Software Engineering Intern! In February of 2022 I decided that I would switch my time and energy from studying Mechanical Engineering to focus solely on coding and pursuing a home office career path. After studying for a while, by May of 2022, I got my first opportunity to work with programming at @DEUcredito and I've been having a fantastic and reassuring experience since then. Currently working with Django, mainly on the back-end side.
+I'm a 23 years old Software Engineering Intern! In February of 2022 I decided that I would switch my time and energy from studying Mechanical Engineering to focus solely on coding and pursuing a home office career path. After studying for a while, by May of 2022, I got my first opportunity to work with programming at DEUcredito and I've been having a fantastic and reassuring experience since then. Currently working with Django, mainly on the back-end side.
 
 ## Stack
 <div style="display: inline_block"><br>
