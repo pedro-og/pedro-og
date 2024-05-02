@@ -1,10 +1,6 @@
 # Hi, I'm Pedro! 👋
 
-I'm a Software Engineering Intern, passionate about crafting innovative solutions through code. In February 2022, I made a bold decision to redirect my focus from Mechanical Engineering to pursue a career in coding and embrace the freedom of a home office setup. Since then, my journey has been exhilarating.
-
-By May 2022, I seized my first opportunity to dive into the world of programming at DEUcredito, and it has been an incredible experience ever since. Currently with a strong emphasis on Django, mainly centered on back-end development, creating robust and efficient systems. My dedication to continuous learning fuels my growth, enabling me to push boundaries!
-
-"Life begins at the end of your comfort zone"
+I'm a Junior Software Engineer @ OZmap, passionate about crafting innovative solutions through code. My ultimate life goal is to be able to contribute in shaping a sustainble and collaborative future through software solutions. 
 
 ## Stack
 <div style="display: inline_block"><br>
