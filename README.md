@@ -1,9 +1,11 @@
 # Hi, I'm Pedro! 👋
 
-I'm a Junior Software Engineer @ OZmap, passionate about crafting innovative solutions through code. My ultimate life goal is to be able to contribute in shaping a sustainble and collaborative future through software solutions. 
+I'm a Software Engineer @ OZmap, passionate about crafting innovative solutions through code. My ultimate life goal is to be able to contribute to shaping a sustainable and collaborative future through software solutions. 
 
 ## Stack
 <div style="display: inline_block"><br>
+  <img align="center" alt="Pedro-Flutter" src="https://img.shields.io/badge/Flutter-092E20?style=for-the-badge&logo=flutter&logoColor=green">
+  <img align="center" alt="Pedro-Dart" src="https://img.shields.io/badge/Dart-092E20?style=for-the-badge&logo=dart&logoColor=green">
   <img align="center" alt="Pedro-Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green">
   <img align="center" alt="Pedro-Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
   <img align="center" alt="Pedro-JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
